@@ -1,0 +1,2 @@
+New text is added to the file. This is all the new line added to the file.
+Just done to the file1 and not any other files.

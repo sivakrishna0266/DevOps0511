@@ -1,0 +1,2 @@
+This is the text file in the future branch 2.
+The same file will be modified in the github.
